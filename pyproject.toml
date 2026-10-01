@@ -1,7 +1,7 @@
 [project]
 name = "statistics"
 version = "0.1.0"
-description = "Add your description here"
+description = "Statistics exercises and labs: distributions, hypothesis testing, A/B tests and regression"
 readme = "README.md"
 authors = [
     { name = "Hugo Caravlho", email = "hugomnc317@gmail.com" }
